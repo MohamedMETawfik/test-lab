@@ -1,0 +1,20 @@
+{
+    "name": "iti/mohsen",
+    "description": "abc",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^10.1"
+    },
+    "license": "1",
+    "autoload": {
+        "psr-4": {
+            "Iti\\Mohsen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed"
+        }
+    ],
+    "minimum-stability": "stable"
+}
